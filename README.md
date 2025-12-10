@@ -11,21 +11,236 @@
 
 ## Quick Finds
 
-# Pc configuration
+
+
+
+
+
+
+
+
+# Physical
+
+
+
+
+
+## Pc's
+
+
+
+<details> <summary>Desktops</summary>
+
+   
+   <details>  <summary>Low End</summary>
+
+| Specifications | Description |
+| --- | --- |
+| Price Range | £150-£499 |
+| CPU | [Intel I3 10th gen](https://www.intel.com/content/www/us/en/products/sku/199273/intel-core-i510600-processor-12m-cache-up-to-4-80-ghz/specifications.html) / [Ryzen 3 2600](https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-3-3200g.html) |
+| Ram | 8gb 3000mhz ddr4 |
+| GPU | (only if no integrated graphics) [gtx1660](https://www.techpowerup.com/gpu-specs/geforce-gtx-1660.c3365) |
+| Motherboard | Choose one that will accept cpu |
+| PSU wattage | 500w |
+| Storage Type | SSD |
+| Storage Size | 256gb+ |
+| Additional cooling? | ❌ |
+| --- | --- |
+| Examples | [Custom](https://uk.pcpartpicker.com/list/7pXxyW) - Lenovo|
+
+</details>
+
+
+<details>  <summary>Medium</summary>
+
+| Specifications | Description |
+| --- | --- |
+| Price Range | £499-£1499 |
+| CPU | I5 12th gen / Ryzen 5 5600 |
+| Ram | 16gb 3200mhz ddr4/ddr5 |
+| GPU | rtx 3060 |
+| Motherboard | Choose one that will accept CPU |
+| PSU wattage | 600-850w |
+| Storage Type | SSD (preferably NVME) |
+| Storage Size | 512gb+ |
+| Additional cooling? | Maybe |
+| --- | --- |
+| Examples | 150-499 |
+
+</details>
+
+<details>  <summary>High End</summary>
+
+| Specifications | Description |
+| --- | --- |
+| Price Range | £1500+ |
+| CPU | Intel I7 14th gen / Ryzen 7 7800 |
+| Ram | 32gb+ |
+| GPU | Rtx 5070+ |
+| Motherboard | B or X series motherboards only |
+| PSU wattage | 850+ |
+| Storage Type | NVME SSD |
+| Storage Size | 512gb+ |
+| Additional cooling? | Yes |
+| --- | --- |
+| Examples | 150-499 |
+
+</details>
+
+> Keep in mind you'll need a monitor, a mouse, and a keyboard.
+
+</details>
+
+   
+<details> <summary>Laptops</summary>
+
+   
+<details>  <summary>Low End</summary>
+
+| Specifications | Description |
+| --- | --- |
+| Price Range | 150-499 |
+| CPU | 150-499 |
+| Ram | 150-499 |
+| GPU | 150-499 |
+| Storage Type | 150-499 |
+| Storage Size | 150-499 |
+| --- | --- |
+| Examples | 150-499 |
+
+</details>
+
+
+<details>  <summary>Medium</summary>
+
+| Specifications | Description |
+| --- | --- |
+| Price Range | 150-499 |
+| CPU | 150-499 |
+| Ram | 150-499 |
+| GPU | 150-499 |
+| Storage Type | 150-499 |
+| Storage Size | 150-499 |
+| --- | --- |
+| Examples | 150-499 |
+
+</details>
+
+<details>  <summary>High End</summary>
+
+| Specifications | Description |
+| --- | --- |
+| Price Range | 150-499 |
+| CPU | 150-499 |
+| Ram | 150-499 |
+| GPU | 150-499 |
+| Storage Type | 150-499 |
+| Storage Size | 150-499 |
+| --- | --- |
+| Examples | 150-499 |
+
+</details>
+
+> Keep in mind no monitor, mouse, or keyboard are required.
+ </details>
+
+## Printers
+
+<details> <summary>Low End</summary>
+
+</details>
+
+<details> <summary>Medium</summary>
+
+</details>
+
+<details> <summary>High End</summary>
+
+</details>
+
+
+## Servers
+<details> <summary>Desktops</summary>
+
+   
+   <details>  <summary>Low End</summary>
+
+| Specifications | Description |
+| --- | --- |
+| Price Range | £150-£499 |
+| CPU | [Intel I3 10th gen](https://www.intel.com/content/www/us/en/products/sku/199273/intel-core-i510600-processor-12m-cache-up-to-4-80-ghz/specifications.html) / [Ryzen 3 2600](https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-3-3200g.html) |
+| Ram | 8gb 3000mhz ddr4 |
+| GPU | (only if no integrated graphics) [gtx1660](https://www.techpowerup.com/gpu-specs/geforce-gtx-1660.c3365) |
+| Motherboard | Choose one that will accept cpu |
+| PSU wattage | 500w |
+| Storage Type | SSD |
+| Storage Size | 256gb+ |
+| Additional cooling? | ❌ |
+| --- | --- |
+| Examples | [Custom](https://uk.pcpartpicker.com/list/7pXxyW) - Lenovo|
+
+</details>
+
+
+<details>  <summary>Medium</summary>
+
+| Specifications | Description |
+| --- | --- |
+| Price Range | £499-£1499 |
+| CPU | I5 12th gen / Ryzen 5 5600 |
+| Ram | 16gb 3200mhz ddr4/ddr5 |
+| GPU | rtx 3060 |
+| Motherboard | Choose one that will accept CPU |
+| PSU wattage | 600-850w |
+| Storage Type | SSD (preferably NVME) |
+| Storage Size | 512gb+ |
+| Additional cooling? | Maybe |
+| --- | --- |
+| Examples | 150-499 |
+
+</details>
+
+<details>  <summary>High End</summary>
+
+| Specifications | Description |
+| --- | --- |
+| Price Range | £1500+ |
+| CPU | Intel I7 14th gen / Ryzen 7 7800 |
+| Ram | 32gb+ |
+| GPU | Rtx 5070+ |
+| Motherboard | B or X series motherboards only |
+| PSU wattage | 850+ |
+| Storage Type | NVME SSD |
+| Storage Size | 512gb+ |
+| Additional cooling? | Yes |
+| --- | --- |
+| Examples | 150-499 |
+
+</details>
+
+> Keep in mind you'll need a monitor, a mouse, and a keyboard.
+
+</details>
+
+
+## Security
+   * #### Camera
+      [Camera option 1](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
+   * Doors
+   * Locks
+   * Fire suppression
+   * Id Cards
+   * Keypads
+   * Biometrics
+   * MFA Keys
+
+
 
 # Server configuration
 
 # Rota system for employees
 
-# Physical security
-   ### Camera
-  [Camera](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
-     Doors
-    Locks
-    Fire suppression
-    Id cards (nfc)
-    Keypads
-    Biometrics
+
 
 # Software security for systems
     MFA
